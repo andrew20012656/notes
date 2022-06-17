@@ -27,9 +27,10 @@
 
 ### III. Three service models (from bottom to top)
 <ol>
-    <li> IaaS - Infrastructure as a Service</li>
+    <li> <strong>IaaS - Infrastructure as a Service </strong>- a form of cloud computing that delivers fundamental compute, network, and storage resources to consumers on-demand, over the internet, on a pay-as-you-go basis.</li>
     <li> PaaS </li>
     <li> SaaS </li>
+    <li> Difference among the three: </li>
 </ol>
 
 ### IV. History and Evolution of Cloud Computing
