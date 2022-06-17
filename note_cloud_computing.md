@@ -30,7 +30,10 @@
     <li> <strong>IaaS - Infrastructure as a Service </strong>- a form of cloud computing that delivers fundamental compute, network, and storage resources to consumers on-demand, over the internet, on a pay-as-you-go basis.</li>
     <li> PaaS </li>
     <li> SaaS </li>
-    <li> Difference among the three: </li>
+    <li> <strong>Difference among the three:</strong>
+    ![difference_among_three_service models](./screenshots/IaaS_vs_PaaS_vs_SaaS.png)
+    </li>
+    
 </ol>
 
 ### IV. History and Evolution of Cloud Computing
@@ -41,6 +44,7 @@
         </li>
     </ul>
     <li><strong>Pay-as-you-go model</strong>- pay only what you needed. Key driver behind cloud computing taking off. Help business to switch from CapEx to OpEx (instead of investing in a hardware, pay the cloud service as operating expense when needed). </li>
+
 </ul>
 
 ### V. Key Considerations for Cloud Computing
